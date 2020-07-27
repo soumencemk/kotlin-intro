@@ -1,3 +1,5 @@
+package basics
+
 fun main(args: Array<String>) {
 /*    val id = arrayOf(1,2,3,4)
     for (i in id) {
